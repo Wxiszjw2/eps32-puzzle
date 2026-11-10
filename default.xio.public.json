@@ -1,0 +1,12 @@
+{
+  "SelectedChipId": "esp32",
+  "BuildEngineMode": 1,
+  "AiProvider": "nvidia",
+  "AiModel": "nvidia/nemotron-3.5-bolt-e4b",
+  "FeatureStates": { "ai_cloud": true },
+  "RemovedDeckKeys": [],
+  "Slots": [],
+  "Rules": [],
+  "CompanionStates": {},
+  "RemovedCompanionKeys": []
+}
